@@ -1,4 +1,3 @@
-# Hi, Everybody  
 # Otávio Gonçalves Da Silva
 
 `Desenvolvedor Back-End`
