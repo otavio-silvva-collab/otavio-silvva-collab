@@ -30,8 +30,8 @@
 
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Excel" 
+    title="Excel"
     width="30px" 
     style="padding-right: 10px;" 
    src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg"
