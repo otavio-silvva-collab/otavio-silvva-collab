@@ -48,6 +48,17 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+
+
+<img 
+    align="left" 
+    alt="Power BI" 
+    title="Power BI"
+    width="30px" 
+    style="padding-right: 10px; filter: grayscale(100%);" 
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/powerbi.svg" 
+/>
+
 <br/>
 
 
