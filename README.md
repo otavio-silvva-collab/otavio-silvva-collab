@@ -8,7 +8,7 @@
 `Data De Nascimento  20/03/2009` #Idade: 17 Anos
 --
 
-# 🤖 Linguagens e Tecnologias
+# 💻Linguagens e Tecnologias
 
 
 <img 
