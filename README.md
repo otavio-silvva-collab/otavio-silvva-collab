@@ -62,5 +62,52 @@
 <br/>
 
 
+ㅤ      
+-
+# Redes  Sociais /Email
 
 
+<a href="https://www.linkedin.com/in/ot%C3%A1vio-gon%C3%A7alves-da-silva-4343153b5/" target="_blank">
+  <img 
+    align="left" 
+    alt="LinkedIn de Otávio Gonçalves" 
+    title="Ver perfil do LinkedIn"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
+  />
+</a>
+
+<a href="https://www.instagram.com/flowossosos/" target="_blank">
+  <img 
+    align="left" 
+    alt="Instagram" 
+    width
+    title="Instagram"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" 
+  />
+</a>
+
+<a href="mailto:otaviosilva18383@gmail.com">
+  <img 
+    align="left" 
+    alt="Gmail" 
+    title="Enviar e-mail para Otávio"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" 
+  />
+</a>
+
+<a href="https://wa.me/5516992308262" target="_blank">
+  <img 
+    align="left" 
+    alt="WhatsApp" 
+    title="Chamar no WhatsApp"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" 
+  />
+</a>
