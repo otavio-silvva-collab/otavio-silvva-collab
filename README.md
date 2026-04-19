@@ -58,7 +58,14 @@
     style="padding-right: 10px; filter: grayscale(100%);" 
     src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/powerbi.svg" 
 />
-
+<img 
+    align="left" 
+    alt="SQL" 
+    title="SQL / MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/tools/mysql/default.svg" 
+/>
 <br/>
 
 
