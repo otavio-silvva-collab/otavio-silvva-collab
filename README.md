@@ -1,6 +1,6 @@
 # Otávio Gonçalves Da Silva
 
-`Cientista De Dados`
+`Cientista De Dados/Data Analytics`
 ---
 `Formado Como Técnico em Desenvolvimento de Sistemas pela Etec de Orlândia.`
 ---
