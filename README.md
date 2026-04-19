@@ -61,10 +61,10 @@
 <img 
     align="left" 
     alt="SQL" 
-    title="SQL / MySQL"
+    title="MySQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/tools/mysql/default.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 <br/>
 
