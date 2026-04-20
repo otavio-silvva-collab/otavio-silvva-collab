@@ -2,7 +2,7 @@
 
 `Cientista De Dados/Data Analytics`
 ---
-`Formado Como Técnico em Desenvolvimento de Sistemas pela Etec de Orlândia.`
+`3/3 Técnico em Desenvolvimento de Sistemas pela Etec de Orlândia.`
 ---
 
 `Data De Nascimento  20/03/2009` Idade: 17 Anos
