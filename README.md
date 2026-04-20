@@ -109,12 +109,5 @@
 </a>
 
 <a href="https://wa.me/5516992308262" target="_blank">
-  <img 
-    align="left" 
-    alt="WhatsApp" 
-    title="Chamar no WhatsApp"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" 
-  />
+  
 </a>
