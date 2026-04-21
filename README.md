@@ -1,6 +1,6 @@
 # Otávio Gonçalves Da Silva
 
-`Cientista De Dados/Data Analytics`
+`Desenvolvedor backend/Python e Sql`
 ---
 `3/3 Técnico em Desenvolvimento de Sistemas pela Etec de Orlândia.`
 ---
@@ -28,14 +28,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 
-<img 
-    align="left" 
-    alt="Excel" 
-    title="Excel"
-    width="30px" 
-    style="padding-right: 10px;" 
-   src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg"
-/>
+
  
 
 
