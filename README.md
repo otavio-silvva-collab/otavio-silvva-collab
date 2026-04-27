@@ -82,7 +82,7 @@
   />
 </a>
 
-<a href="mailto:otaviosilva18383@gmail.com">
+<a href="mailto:expressim960gmail.com">
   <img 
     align="left" 
     alt="Gmail" 
