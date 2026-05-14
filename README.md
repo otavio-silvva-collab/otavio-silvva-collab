@@ -11,7 +11,7 @@
 # 💻Linguagens e Tecnologias
 
 
-<im 
+<img
     align="left" 
     alt="HTML"
     title="HTML" 
