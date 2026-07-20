@@ -1,107 +1,61 @@
-# Otávio Gonçalves da Silva
+<h1 align="center">Hi 👋, I'm Otávio Gonçalves da Silva</h1>
+<h3 align="center">Data Scientist | Python • SQL • Machine Learning</h3>
 
-`Data Scientist | Python | SQL | Machine Learning`
+<p align="center">
+Transforming data into strategic insights through analytics, machine learning, and visualization.
+</p>
 
-🎓 **Systems Development Technician (ETEC Orlândia)**  
-📍 Brazil
-
----
-
-# 🧠 Skills
-
-<img align="left" alt="Python" title="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="Pandas" title="Pandas" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-<img align="left" alt="MySQL" title="MySQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="Git" title="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" title="GitHub" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="VS Code" title="Visual Studio Code" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-
-<br><br>
-
----
-
-# 🌐 Connect with Me
-
-<a href="https://www.linkedin.com/in/ot%C3%A1vio-gon%C3%A7alves-da-silva-4343153b5/" target="_blank">
-  <img align="left" alt="LinkedIn" title="LinkedIn" width="35px" src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://www.instagram.com/flowossosos/" target="_blank">
-  <img align="left" alt="Instagram" title="Instagram" width="35px" src="https://skillicons.dev/icons?i=instagram" />
-</a>
-
-<a href="mailto:otaviosilva18383@gmail.com">
-  <img align="left" alt="Gmail" title="Email" width="35px" src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-<br><br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ot%C3%A1vio-gon%C3%A7alves-da-silva-4343153b5">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:otaviosilva18383@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/flowossosos/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 📊 About Me
+# 👨‍💻 About Me
 
-I am a **Data Scientist** passionate about transforming data into actionable insights through **Python**, **SQL**, and **Machine Learning**. I enjoy analyzing complex datasets, building predictive models, and developing data-driven solutions that support informed decision-making.<img align="left" alt="VS Code" title="Visual Studio Code" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+🎓 Systems Development Technician – ETEC Orlândia
 
-<br><br>
+📊 Data Scientist passionate about turning raw data into valuable insights.
 
----
+🐍 Strong knowledge of Python and SQL.
 
-# 🌐 Connect with Me
-
-<a href="SEU_LINKEDIN">
-<img width="35px" src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="SEU_INSTAGRAM">
-<img width="35px" src="https://skillicons.dev/icons?i=instagram" />
-</a>
-
-<a href="mailto:expressim960@gmail.com">
-<img width="35px" src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-<br><br>
+📈 Interested in Machine Learning, Data Analysis and Artificial Intelligence.
 
 ---
 
-## 📊 About Me
+# 🛠️ Tech Stack
 
-I am a **Data Scientist** passionate about turning data into actionable insights. I specialize in **Python**, **SQL**, data analysis, and machine learning, building solutions that transform raw data into strategic decisions.<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+</p>
 
-<br/><br/>
-
----
-
-# 🌐 Connect with Me
-
-<a href="https://www.linkedin.com/in/ot%C3%A1vio-gon%C3%A7alves-da-silva-4343153b5/" target="_blank">
-  <img align="left" alt="LinkedIn" title="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
-</a>
-
-<a href="https://www.instagram.com/flowossosos/" target="_blank">
-  <img align="left" alt="Instagram" title="Instagram" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" />
-</a>
-
-<a href="mailto:expressim960@gmail.com">
-  <img align="left" alt="Email" title="Email" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" />
-</a>
-
-<br/><br/>
+<p align="left">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,tensorflow,sklearn" />
+</p>
 
 ---
 
-## 📈 About Me
+# 📊 GitHub Analytics
 
-I am a **Data Scientist** passionate about transforming data into strategic insights using **Python, SQL, Power BI, and machine learning**. I enjoy analyzing complex datasets, building predictive models, and creating data-driven solutions that support informed decision-making.<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-<br/>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-### 📈 About Me
+## 🚀 Motto
 
-I am a **Data Scientist** passionate about transforming data into strategic insights through **Python, SQL, statistics, machine learning, and data visualization**. I enjoy analyzing complex datasets, building predictive models, and solving real-world problems with data-driven solutions.
+> *"Without data, you're just another person with an opinion."* — W. Edwards Deming
