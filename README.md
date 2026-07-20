@@ -1,20 +1,47 @@
 # Otávio Gonçalves da Silva
 
-`Data Scientist | Python | SQL | Data Analysis`
+`Data Scientist | Python | SQL | Machine Learning`
 
-🎓 **Systems Development Technician (ETEC Orlândia)**  
-📅 **Date of Birth:** March 20, 2009  
-🎂 **Age:** 17
+🎓 **Systems Development Technician (ETEC Orlândia)**
+📍 Brazil
+🎂 **17 years old**
 
 ---
 
-# 📊 Data Science Stack
+# 🧠 Skills
 
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="Pandas" title="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
-<img align="left" alt="Power BI" title="Power BI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerbi.svg" />
-<img align="left" alt="Scikit-learn" title="Scikit-learn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/scikitlearn.svg" />
-<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img align="left" alt="Python" title="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="Pandas" title="Pandas" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+<img align="left" alt="MySQL" title="MySQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="left" alt="Git" title="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" title="GitHub" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="VS Code" title="Visual Studio Code" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+
+<br><br>
+
+---
+
+# 🌐 Connect with Me
+
+<a href="SEU_LINKEDIN">
+<img width="35px" src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="SEU_INSTAGRAM">
+<img width="35px" src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
+<a href="mailto:expressim960@gmail.com">
+<img width="35px" src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<br><br>
+
+---
+
+## 📊 About Me
+
+I am a **Data Scientist** passionate about turning data into actionable insights. I specialize in **Python**, **SQL**, data analysis, and machine learning, building solutions that transform raw data into strategic decisions.<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 
