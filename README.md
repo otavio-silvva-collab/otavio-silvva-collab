@@ -37,7 +37,7 @@ Transforming data into strategic insights through analytics, machine learning, a
 # 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,postgres,git,github,vscode" />
 </p>
 
 <p align="left">
