@@ -12,34 +12,25 @@
 
 ## 🚀 About Me
 
-* 🐍 Python Developer passionate about programming and technology
-* 💻 Focused on back-end development and automation
-* 🗄️ Experience with SQL and databases
-* 🎓 Systems Development Technician student at ETEC Orlândia
-* 🌱 Always learning and improving my programming skills
+* 🐍 **Python Developer** passionate about programming and technology.
+* 💻 Focused on **back-end development** and **automation**.
+* 🗄️ Experience with **SQL** and database integration.
+* 🎓 Systems Development Technician student at **ETEC Orlândia**.
+* 🌱 Always learning and improving my programming skills.
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-### Languages
+* 🐍 **Languages:** Python
+* 🗄️ **Databases:** SQL
+* 💻 **Tools & Libraries:** Git, GitHub, Linux, Pandas, NumPy
 
-* Python
-* SQL
-
-### Tools & Libraries
-
-* Git & GitHub
-* Linux
-* Pandas
-* NumPy
-
-### Development
-
-* Back-end applications
-* Automation scripts
-* Data manipulation
-* Database integration
+### Areas of Expertise
+* ⚙️ Back-end applications
+* 🤖 Automation scripts & Web Scraping
+* 📊 Data manipulation & Analysis
+* 🗄️ Database architecture & integration
 
 ---
 
@@ -47,11 +38,15 @@
 
 Here you can find my projects involving Python, automation, and software development.
 
+<!-- Adicione seus repositórios reais aqui conforme for desenvolvendo -->
+
 ---
 
-## 📫 Contact
+## 📫 Connect with me
 
-* GitHub: https://github.com/otavio-silvva-collab
+* 🐙 **GitHub:** [otavio-silvva-collab](https://github.com)
+* 💼 **LinkedIn:** [Otávio Gonçalves da Silva](https://linkedin.com)
+* 📧 **Email:** [otaviosilva18383@gmail.com](mailto:otaviosilva18383@gmail.com)
 
 ---
 
